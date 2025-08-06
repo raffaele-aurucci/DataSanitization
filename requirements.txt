@@ -128,7 +128,7 @@ torch==2.7.1
 tornado==6.5.1
 tqdm==4.67.1
 traitlets==5.14.3
-transformers==4.54.1
+transformers~=4.55.0
 typer==0.16.0
 types-python-dateutil==2.9.0.20250708
 typing-inspection==0.4.1
@@ -144,3 +144,5 @@ webencodings==0.5.1
 websocket-client==1.8.0
 widgetsnbextension==4.0.14
 wrapt==1.17.2
+
+Levenshtein~=0.27.1
